@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  benthos:
+  - apiVersion: v2
+    appVersion: 4.24.0
+    created: "2024-04-11T17:26:49.345411335Z"
+    description: Benthos Helm chart for Kubernetes
+    digest: 07604cd5f7a2e260f2c0beea5d9d35db155ea5beaa3f59fb37fce518d09760f9
+    name: benthos
+    type: application
+    urls:
+    - https://benthosdev.github.io/charts/benthos/benthos-2.2.1.tgz
+    version: 2.2.1
+generated: "2024-04-11T17:26:49.34418508Z"
