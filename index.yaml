@@ -224,12 +224,12 @@ entries:
   benthos-captain:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2024-04-17T19:00:53.863473846Z"
+    created: "2024-04-24T13:00:25.930712863Z"
     description: A Kubernetes Operator to orchestrate Benthos pipelines.
-    digest: b40a36106304e0c49cce03de6bcd552a4611ea665f501066d61d937f9753b997
+    digest: 31280cbc2da4a7fa84f994b4d28b72b8e79382f967841547593c01ddbd633bda
     name: benthos-captain
     type: application
     urls:
     - https://benthosdev.github.io/charts/benthos-captain/benthos-captain-0.1.0.tgz
     version: 0.1.0
-generated: "2024-04-17T19:00:53.863047911Z"
+generated: "2024-04-24T13:00:25.930295897Z"
